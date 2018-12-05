@@ -3,5 +3,4 @@ py2-env/
 *.pyc
 commands.txt
 .vagrant
-test
 *.backup
